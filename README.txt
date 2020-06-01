@@ -1,3 +1,3 @@
-# HNGProject
+#Hello,
 
-I'm Cindy Shontan, I'm in the UI/ UX Track, and here is my first committ for the Internship.
+Welcome to my first committ.
